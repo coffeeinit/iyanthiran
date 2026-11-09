@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "type": "past",
+    "visibility": true,
+    "title": "Graphic Designer Hiring",
+    "description": "Join Raphael Creatives as a Graphic Designer. Work on exciting projects, collaborate with a passionate team, and grow your career. Strong Photoshop & Illustrator skills required.",
+    "date": "September 13, 2025",
+    "image": "/assets/events/raphaeliyanthrian.jpg",
+    "icon": "Users",
+    "registerUrl": "mailto:careers@iyanthiran.com",
+    "knowMoreUrl": "https://www.instagram.com/p/DOJCinSE337/"
+  },
+  {
+    "id": 2,
+    "type": "past",
+    "visibility": true,
+    "title": "VLSI Design Engineers Hiring",
+    "description": "TenSemi (Powered by Iyanthiran) is hiring VLSI Design Engineers. Walk-in interview on 13th Sept 2025 at Vaazhai Incubator, SVCET Campus. RTL Design, Verification skills, and EDA tools knowledge required.",
+    "date": "September 13, 2025",
+    "image": "/assets/events/tensemiiyanthiran.jpg",
+    "icon": "Users",
+    "registerUrl": "mailto:careers@iyanthiran.com",
+    "knowMoreUrl": "https://www.instagram.com/p/DOJB19GE8MR/"
+  },
+  {
+    "id": 3,
+    "type": "past",
+    "visibility": true,
+    "title": "E-Commerce Insights Session",
+    "description": "Engaging session on E-Commerce delivered for students of P.A.C.R. Polytechnic College. Highlighted how e-commerce is shaping future business and creating new career opportunities.",
+    "date": "August 30, 2025",
+    "image": "",
+    "icon": "BookOpen",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DN-o21Ak5Pp/"
+  },
+  {
+    "id": 4,
+    "type": "past",
+    "visibility": true,
+    "title": "Fabless Chip Design Guest Lecture",
+    "description": "Guest lecture at Ramco Institute of Technology on Fabless Chip Design and opportunities for young engineers. Featuring Mr. Ananthan Ayyasamy, Founder & CEO of TenSemi.",
+    "date": "August 23, 2025",
+    "image": "",
+    "icon": "Microchip",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DNsmOJZ5ll_/"
+  },
+  {
+    "id": 5,
+    "type": "past",
+    "visibility": true,
+    "title": "Future of AI: Beyond Prompt Engineering",
+    "description": "Impactful session at Ramco Institute of Technology exploring how AI is moving beyond prompt-based interactions into real-world applications and future career skills.",
+    "date": "August 21, 2025",
+    "image": "",
+    "icon": "Cpu",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DNnnJLqTqXK/"
+  },
+  {
+    "id": 6,
+    "type": "past",
+    "visibility": true,
+    "title": "ITI Professionals Job Opportunity",
+    "description": "Job openings for skilled ITI professionals at Chettinad Cements. Positions include Fitter, Welder, Electrician, Instrument Technician, and Turner with accommodation and benefits.",
+    "date": "August 9, 2025",
+    "image": "",
+    "icon": "Briefcase",
+    "registerUrl": "mailto:iyanthiranedge@gmail.com",
+    "knowMoreUrl": "https://www.instagram.com/p/DNIiZjpzNjN/"
+  },
+  {
+    "id": 7,
+    "type": "past",
+    "visibility": true,
+    "title": "College First Year Guidance Session",
+    "description": "Inspiring session at Rajapalayam Rajus' College sharing experiences and practical tips for freshers on navigating college life, handling pressure, and building confidence.",
+    "date": "July 4, 2025",
+    "image": "",
+    "icon": "GraduationCap",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DLr5RylTQBg/"
+  },
+  {
+    "id": 8,
+    "type": "past",
+    "visibility": true,
+    "title": "Kovilpatti Women Entrepreneur Confluence",
+    "description": "Participation in the inspiring event that brought together women entrepreneurs from across Tamil Nadu to celebrate women-led businesses and share success stories.",
+    "date": "July 1, 2025",
+    "image": "",
+    "icon": "Users",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DLPjKdQzViA/"
+  },
+  {
+    "id": 9,
+    "type": "past",
+    "visibility": true,
+    "title": "Effective Communication Skills Workshop",
+    "description": "High-energy session designed to help participants boost confidence, clarity, and connection in personal and professional conversations with practical tools and techniques.",
+    "date": "June 29, 2025",
+    "image": "",
+    "icon": "MessageCircle",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DLM-Rxbz1jO/"
+  },
+  {
+    "id": 10,
+    "type": "past",
+    "visibility": true,
+    "title": "Digital Marketing Training for LIC Agents",
+    "description": "Exclusive training tailored for LIC Agents to help insurance professionals thrive in the digital age with brand building, social media outreach, and lead generation strategies.",
+    "date": "June 28, 2025",
+    "image": "",
+    "icon": "TrendingUp",
+    "registerUrl": "",
+    "knowMoreUrl": "https://www.instagram.com/p/DLKZfMezGL2/"
+  }
+]

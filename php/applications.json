@@ -1,0 +1,95 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "name": "Priya Sharma",
+      "email": "priya.sharma@email.com",
+      "phone": "+91 98765 43210",
+      "photo": "priya_sharma_photo.jpg",
+      "address": "123 Main Street, Chennai",
+      "pincode": "600001",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "tenthSchool": "ABC High School",
+      "tenthYear": "2018",
+      "tenthPercentage": "85.5",
+      "eleventhSchool": "ABC High School",
+      "eleventhYear": "2019",
+      "eleventhPercentage": "82.3",
+      "twelfthSchool": "ABC High School",
+      "twelfthYear": "2020",
+      "twelfthPercentage": "88.7",
+      "graduationCollege": "Anna University",
+      "graduationYear": "2024",
+      "graduationPercentage": "8.5",
+      "graduationCourse": "Computer Science Engineering",
+      "skills": "React, Node.js, Python, SQL, MongoDB",
+      "languages": "English, Tamil, Hindi",
+      "resume": "priya_sharma_resume.pdf",
+      "documents": [
+        {
+          "id": 1,
+          "name": "10th_marksheet",
+          "file": "10th_marksheet.pdf",
+          "type": "application/pdf"
+        },
+        {
+          "id": 2,
+          "name": "12th_marksheet",
+          "file": "12th_marksheet.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "status": "pending",
+      "appliedDate": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Raj Kumar",
+      "email": "raj.kumar@email.com",
+      "phone": "+91 87654 32109",
+      "photo": "raj_kumar_photo.jpg",
+      "address": "456 Park Avenue, Madurai",
+      "pincode": "625001",
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "tenthSchool": "XYZ High School",
+      "tenthYear": "2017",
+      "tenthPercentage": "92.1",
+      "eleventhSchool": "XYZ High School",
+      "eleventhYear": "2018",
+      "eleventhPercentage": "89.5",
+      "twelfthSchool": "XYZ High School",
+      "twelfthYear": "2019",
+      "twelfthPercentage": "91.2",
+      "graduationCollege": "Madurai Kamaraj University",
+      "graduationYear": "2023",
+      "graduationPercentage": "9.2",
+      "graduationCourse": "Information Technology",
+      "skills": "Python, Machine Learning, SQL, Data Analysis, Pandas",
+      "languages": "English, Tamil, Telugu",
+      "documents": [
+        {
+          "id": 1,
+          "name": "resume",
+          "type": "application/pdf",
+          "file": "raj.kumar@email.com_resume.pdf"
+        },
+        {
+          "id": 2,
+          "name": "degree_certificate",
+          "type": "application/pdf",
+          "file": "raj.kumar@email.com_degree_certificate.pdf"
+        },
+        {
+          "id": 4,
+          "name": "project_certificate",
+          "type": "image/jpeg",
+          "file": "raj.kumar@email.com_project_certificate.jpg"
+        }
+      ],
+      "status": "shortlisted",
+      "appliedDate": "2025-01-14"
+    }
+  ]
+}

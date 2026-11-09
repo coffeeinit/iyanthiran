@@ -1,0 +1,72 @@
+{
+  "name": "Iyanthiran Edge - Career Guidance Platform",
+  "short_name": "Iyanthiran Edge",
+  "description": "Career guidance and training platform helping rural youth achieve their career dreams with industry-ready skills and 100% placement support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0D9488",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "career-guidance", "training", "placement", "rural-development"],
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot-home.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Home page showing career guidance services"
+    },
+    {
+      "src": "/assets/screenshot-courses.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Courses page with available training programs"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Apply Now",
+      "short_name": "Apply",
+      "description": "Submit your application for walk-in interviews",
+      "url": "/application",
+      "icons": [
+        {
+          "src": "/assets/logo.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "View Courses",
+      "short_name": "Courses",
+      "description": "Browse available courses and training programs",
+      "url": "/courses",
+      "icons": [
+        {
+          "src": "/assets/logo.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+} 

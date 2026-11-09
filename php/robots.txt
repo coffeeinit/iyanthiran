@@ -1,0 +1,55 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://iyanthiran.com/sitemap.xml
+
+# Disallow sensitive directories and files
+Disallow: /data/
+Disallow: /includes/
+Disallow: /candidates/
+Disallow: /*.json$
+Disallow: /*.log$
+Disallow: /*.sql$
+Disallow: /*.bak$
+Disallow: /*.tmp$
+
+# Allow important pages (clean URLs)
+Allow: /home
+Allow: /about
+Allow: /courses
+Allow: /events
+Allow: /contact
+Allow: /partners
+Allow: /blog
+Allow: /privacy
+Allow: /terms
+Allow: /application
+
+# Allow static assets
+Allow: /assets/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.ico
+Allow: /*.woff
+Allow: /*.woff2
+Allow: /*.ttf
+Allow: /*.eot
+
+# Crawl delay for better server performance
+Crawl-delay: 1
+
+# Special instructions for major search engines
+User-agent: Googlebot
+Crawl-delay: 0
+
+User-agent: Bingbot
+Crawl-delay: 1
+
+User-agent: Slurp
+Crawl-delay: 2

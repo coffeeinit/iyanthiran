@@ -1,0 +1,33 @@
+# LLMs.txt - AI/LLM Information for Iyanthiran Edge
+
+## About This Site
+- Site: https://iyanthiran.com
+- Purpose: Career guidance and training platform
+- Content: Career courses, internship programs, placement support, success stories
+
+## AI/LLM Usage Policy
+- Content Generation: Human-written content only
+- Course Descriptions: Written by career experts and trainers
+- Customer Support: Human career counselors and support team
+- No AI-generated content used on this website
+
+## Contact for AI/LLM Inquiries
+- Email: info@iyanthiran.com
+- Subject: "LLM/AI Usage Inquiry"
+- Response Time: Within 48 hours
+
+## Data Usage
+- No training data collected from user interactions
+- No AI models trained on user data
+- Privacy-first approach maintained
+- Student data protected under educational privacy standards
+
+## Last Updated
+- Date: 2025-01-15
+- Version: 1.0
+
+## Additional Information
+- This site focuses on authentic career guidance and real success stories
+- All course content is verified by industry experts
+- No automated content generation used
+- Human-centered approach to career development 

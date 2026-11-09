@@ -1,0 +1,14 @@
+/* TEAM */
+    Developer: Iyanthiran Edge Team
+    Contact: info@iyanthiran.com
+    From: Tamil Nadu, India
+
+/* SITE */
+    Last update: 2025
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: React, TypeScript, Tailwind CSS
+    Software: Vite, Node.js
+    Purpose: Career guidance and training platform 

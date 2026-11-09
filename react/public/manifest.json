@@ -1,0 +1,25 @@
+{
+  "name": "Iyanthiran Edge - Career Guidance Platform",
+  "short_name": "Iyanthiran Edge",
+  "description": "Career guidance and training platform helping students and professionals achieve their career dreams",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0D9488",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "career-guidance", "training", "placement"],
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+} 
